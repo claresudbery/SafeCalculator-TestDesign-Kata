@@ -1,3 +1,10 @@
+glh-demo branch
+===============
+
+This branch was created when delivering the Test Doubles guided learning hour. 
+It adds a tiny amount of mocking code using a mocking framework.
+See test-doubles-intro.md in clare-tech for notes. 
+
 Safe Calculator Test Design Kata
 ================================
 
